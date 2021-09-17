@@ -1,0 +1,278 @@
+body {
+    background-color: #354147;
+  }
+  
+  .logo-M {
+    position: absolute;
+    width: 33px;
+    height: 46px;
+    left: 80px;
+    top: -6px;
+  
+    font-family: Noto Serif KR;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 32px;
+    line-height: 46px;
+    /* identical to box height */
+  
+    letter-spacing: 0.01em;
+    text-transform: capitalize;
+  
+    /* Weiß */
+  
+    color: #ffffff;
+  }
+  
+  .logo-T {
+    position: absolute;
+    width: 23px;
+    height: 46px;
+    left: 138px;
+    top: -6px;
+  
+    font-family: Noto Serif KR;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 32px;
+    line-height: 46px;
+    /* identical to box height */
+  
+    letter-spacing: 0.01em;
+    text-transform: capitalize;
+  
+    /* Weiß */
+  
+    color: #ffffff;
+  }
+  
+  .logo-Ntwo {
+    position: absolute;
+    width: 27px;
+    height: 46px;
+    left: 162px;
+    top: -6px;
+  
+    font-family: Noto Serif KR;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 32px;
+    line-height: 46px;
+    /* identical to box height */
+  
+    letter-spacing: 0.01em;
+    text-transform: capitalize;
+  
+    /* Weiß */
+  
+    color: #ffffff;
+  }
+  
+  .logo-None {
+    position: absolute;
+    width: 27px;
+    height: 46px;
+    left: 112px;
+    top: -6px;
+  
+    font-family: Noto Serif KR;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 32px;
+    line-height: 46px;
+    /* identical to box height */
+  
+    letter-spacing: 0.01em;
+    text-transform: capitalize;
+  
+    /* Weiß */
+  
+    color: #ffffff;
+  }
+
+  .heading-img-about-us {
+    position: absolute;
+    width: 1920px;
+    height: 692px;
+    left: 0px;
+    top: 0px;
+  
+    background: url("image 7.png");
+  }
+  
+  .logo {
+    position: absolute;
+    width: 202px;
+    height: 24px;
+    left: 80px;
+    top: 37px;
+  
+    font-family: Noto Serif KR;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 32px;
+    line-height: 46px;
+    /* identical to box height */
+  
+    letter-spacing: 0.01em;
+    text-transform: capitalize;
+  
+    background: #ffffff;
+    color: #ffffff;
+  }
+  
+  .about-us-homepage {
+    /* Equipment */
+  
+    position: absolute;
+    width: 99px;
+    height: 28px;
+    left: 771px;
+    top: 25px;
+  
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 28px;
+    text-decoration: #ffffff;
+  
+    color: #ffffff;
+  }
+  
+  .our-services-homepage {
+    /* Equipment */
+  
+    position: absolute;
+    width: 138px;
+    height: 28px;
+    left: 901px;
+    top: 25px;
+  
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 28px;
+    text-decoration: none;
+  
+    color: #ffffff;
+  }
+  
+  .contact-us-homepage {
+    /* Equipment */
+  
+    position: absolute;
+    width: 119px;
+    height: 28px;
+    left: 1060px;
+    top: 25px;
+  
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 28px;
+    text-decoration: none;
+  
+    color: #ffffff;
+  }
+  
+  .client-access-homepage {
+    /* Equipment */
+  
+    position: absolute;
+    width: 148px;
+    height: 28px;
+    left: 1692px;
+    top: 25px;
+  
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 28px;
+    text-decoration: none;
+  
+    color: #ffffff;
+  }
+
+  .content-heading-about {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+  
+    position: absolute;
+    width: 1176px;
+    height: 253px;
+    left: 126px;
+    top: 216px;
+  }
+
+  .rect-2-1-about-us {
+    /* not right first*/
+    /* Rectangle 2.1 */
+  
+    position: absolute;
+    width: 72px;
+    height: 2px;
+    left: 0px;
+    top: 25px;
+  
+    /* Accent */
+  
+    background: #fbd784;
+  }
+
+  .innovative-strategies {
+    /* not right first*/
+    /* INNOVATIVE STRATEGIES */
+  
+    position: absolute;
+    width: 339px;
+    height: 21px;
+    left: 104px;
+    top: 0px;
+  
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 15px;
+    line-height: 21px;
+    letter-spacing: 6px;
+    text-transform: uppercase;
+  
+    /* Accent */
+  
+    color: #fbd784;
+  }
+  
+  .description {
+    /* not right first*/
+    /* Harley Capital provides expansive investment opportunies */
+  
+    position: static;
+    width: 1176px;
+    height: 300px;
+    left: 0px;
+    top: 53px;
+  
+    font-family: Noto Serif KR;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 100px;
+    line-height: 100px;
+    /* or 128% */
+  
+    /* Weiß */
+  
+    color: #ffffff;
+  
+    /* Inside Auto Layout */
+  
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    margin: 32px 0px;
+  }

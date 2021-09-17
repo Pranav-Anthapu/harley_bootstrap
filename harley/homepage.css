@@ -1,0 +1,579 @@
+body {
+  background-color: #354147;
+  font-size: x-large;
+}
+
+.logo-M {
+  position: absolute;
+  width: 33px;
+  height: 46px;
+  left: 80px;
+  top: -6px;
+
+  font-family: Noto Serif KR;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 32px;
+  line-height: 46px;
+  /* identical to box height */
+
+  letter-spacing: 0.01em;
+  text-transform: capitalize;
+
+  /* Weiß */
+
+  color: #ffffff;
+}
+
+.logo-T {
+  position: absolute;
+  width: 23px;
+  height: 46px;
+  left: 138px;
+  top: -6px;
+
+  font-family: Noto Serif KR;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 32px;
+  line-height: 46px;
+  /* identical to box height */
+
+  letter-spacing: 0.01em;
+  text-transform: capitalize;
+
+  /* Weiß */
+
+  color: #ffffff;
+}
+
+.logo-Ntwo {
+  position: absolute;
+  width: 27px;
+  height: 46px;
+  left: 162px;
+  top: -6px;
+
+  font-family: Noto Serif KR;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 32px;
+  line-height: 46px;
+  /* identical to box height */
+
+  letter-spacing: 0.01em;
+  text-transform: capitalize;
+
+  /* Weiß */
+
+  color: #ffffff;
+}
+
+.logo-None {
+  position: absolute;
+  width: 27px;
+  height: 46px;
+  left: 112px;
+  top: -6px;
+
+  font-family: Noto Serif KR;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 32px;
+  line-height: 46px;
+  /* identical to box height */
+
+  letter-spacing: 0.01em;
+  text-transform: capitalize;
+
+  /* Weiß */
+
+  color: #ffffff;
+}
+
+.heading-img-homepage {
+  background-color: #354147;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  left: 0px;
+  top: 0px;
+
+  background: url("BG Content.png");
+}
+
+.logo {
+  width: 202px;
+  height: 24px;
+  top: 37px;
+
+  font-family: Noto Serif KR;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 32px;
+  line-height: 46px;
+  /* identical to box height */
+
+  letter-spacing: 0.01em;
+  text-transform: capitalize;
+
+  background: #ffffff;
+  color: #ffffff;
+}
+
+.about-us-homepage {
+  /* Equipment */
+
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  /* font-size: 17px; */
+  line-height: 28px;
+  text-decoration: #ffffff;
+
+  color: #ffffff;
+}
+
+.our-services-homepage {
+  /* Equipment */
+
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  /* font-size: 17px; */
+  line-height: 28px;
+  text-decoration: none;
+
+  color: #ffffff;
+}
+
+.contact-us-homepage {
+  /* Equipment */
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  line-height: 28px;
+  text-decoration: none;
+
+  color: #ffffff;
+}
+
+.client-access-homepage {
+  /* Equipment */
+
+  position: absolute;
+  width: 148px;
+  height: 28px;
+  left: 1692px;
+  top: 25px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 28px;
+  text-decoration: none;
+
+  color: #ffffff;
+}
+
+.content-heading-homepage {
+  /* Content */
+
+  /* Auto Layout */
+
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px;
+
+  position: absolute;
+  width: 1176px;
+  height: 353px;
+  left: 266px;
+  top: 287px;
+}
+
+.rect-2-1-homepage {
+  /* not right first*/
+  /* Rectangle 2.1 */
+
+  position: absolute;
+  width: 72px;
+  height: 2px;
+  left: 0px;
+  top: 10px;
+
+  /* Accent */
+
+  background: #fbd784;
+}
+
+.innovative-strategies {
+  /* not right first*/
+  /* INNOVATIVE STRATEGIES */
+
+  position: absolute;
+  width: 339px;
+  height: 21px;
+  left: 104px;
+  top: 0px;
+
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 15px;
+  line-height: 21px;
+  letter-spacing: 6px;
+  text-transform: uppercase;
+
+  /* Accent */
+
+  color: #fbd784;
+}
+
+.description {
+  /* not right first*/
+  /* Harley Capital provides expansive investment opportunies */
+
+  position: static;
+  width: 1176px;
+  height: 300px;
+  left: 0px;
+  top: 53px;
+
+  font-family: Noto Serif KR;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 100px;
+  line-height: 100px;
+  /* or 128% */
+
+  /* Weiß */
+
+  color: #ffffff;
+
+  /* Inside Auto Layout */
+
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+  margin: 32px 0px;
+}
+
+.heading {
+  position: absolute;
+  width: 1920px;
+  height: 1200px;
+  left: 0px;
+  top: 0px;
+
+  background: linear-gradient(
+    330.24deg,
+    rgba(11, 29, 38, 0) 31.06%,
+    #0b1d26 108.93%
+  );
+}
+
+.group-18 {
+  /* Group 18 */
+
+  position: absolute;
+  left: 17.4%;
+  right: 17.45%;
+  top: 47.15%;
+  bottom: 39.46%;
+}
+
+.line {
+  /* Line */
+
+  position: absolute;
+  width: 696px;
+  height: 2px;
+  left: 635px;
+  top: 2058.69px;
+
+  /* Accent */
+
+  background: #fbd784;
+}
+
+.capital-difference {
+  /* The Harley Capital Difference */
+
+  position: absolute;
+  width: 1251px;
+  height: 100.4px;
+  left: 334px;
+  top: 1605px;
+
+  font-family: Noto Serif KR;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 64px;
+  line-height: 92px;
+  text-align: center;
+
+  color: #ffffff;
+}
+
+.capital-difference-description {
+  position: absolute;
+  width: 1189px;
+  height: 244.45px;
+  left: 365px;
+  top: 1754.51px;
+
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 32px;
+  /* or 160% */
+
+  color: #ffffff;
+}
+
+.button-homepage {
+  /* Rectangle 3 */
+
+  position: absolute;
+  width: 333px;
+  height: 80px;
+  left: 827px;
+  top: 2383px;
+
+  background: #fbd784;
+  border-radius: 6px;
+
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 28px;
+  line-height: 80px;
+  /* identical to box height, or 114% */
+
+  text-align: center;
+  text-decoration: none;
+
+  color: #0b1d26;
+}
+
+.harley-capital-help {
+  /* How can Harley Capital help you? */
+
+  position: absolute;
+  width: 1251px;
+  height: 100.4px;
+  left: 334px;
+  top: 2151px;
+
+  font-family: Noto Serif KR;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 64px;
+  line-height: 92px;
+  text-align: center;
+
+  color: #ffffff;
+}
+
+.contact-us {
+  /* For more information and answers to your questions, please contact us. */
+
+  position: absolute;
+  width: 1189px;
+  height: 244.45px;
+  left: 365px;
+  top: 2300.51px;
+
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 32px;
+  /* or 178% */
+
+  text-align: center;
+
+  color: #ffffff;
+}
+
+/* all footer styles below this*/
+
+.footer {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  left: 0px;
+  top: 2600px;
+
+  background: #273f55;
+}
+
+.copyright {
+  /* (c) 2021. Harley Capital */
+
+  position: absolute;
+  width: 209px;
+  height: 32px;
+  bottom: 682px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 32px;
+  /* identical to box height, or 160% */
+
+  color: #ffffff;
+}
+
+.logo-two {
+  position: absolute;
+  width: 202px;
+  height: 24px;
+  top: 184px;
+
+  font-family: Noto Serif KR;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 32px;
+  /* identical to box height */
+
+  letter-spacing: 0.01em;
+  text-transform: capitalize;
+
+  background: #ffffff;
+  color: #ffffff;
+}
+
+.logo-M2 {
+  /* M */
+
+  position: absolute;
+  width: 33px;
+  height: 46px;
+  left: 0px;
+  top: -45px;
+
+  font-family: Noto Serif KR;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 32px;
+  line-height: 46px;
+  /* identical to box height */
+
+  letter-spacing: 0.01em;
+  text-transform: capitalize;
+
+  /* Weiß */
+
+  color: #ffffff;
+}
+
+.logo-T2 {
+  position: absolute;
+  width: 23px;
+  height: 46px;
+  left: 58px;
+  top: -45px;
+
+  font-family: Noto Serif KR;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 32px;
+  line-height: 46px;
+  /* identical to box height */
+
+  letter-spacing: 0.01em;
+  text-transform: capitalize;
+
+  /* Weiß */
+
+  color: #ffffff;
+}
+
+.logo-N2 {
+  /* N */
+
+  position: absolute;
+  width: 27px;
+  height: 46px;
+  left: 82px;
+  top: -45px;
+
+  font-family: Noto Serif KR;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 32px;
+  line-height: 46px;
+  /* identical to box height */
+
+  letter-spacing: 0.01em;
+  text-transform: capitalize;
+
+  /* Weiß */
+
+  color: #ffffff;
+}
+
+.address {
+  /* Harley Captial Office: (203) 333-4444 123 Main Street City, State 00000 email@email.com */
+
+  position: absolute;
+  width: 199px;
+  height: 160px;
+  top: 2826px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 32px;
+  /* or 160% */
+
+  color: #ffffff;
+}
+
+.legal-policies {
+  /* Privacy Policy | Business Continuity Statement | US Patriot Act | Legal Policy */
+
+  position: absolute;
+  width: 707px;
+  height: 32px;
+  left: 984px;
+  top: 2690px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 32px;
+  /* identical to box height, or 160% */
+
+  color: #ffffff;
+}
+
+.information {
+  /* The information provided is not directed at any investor or category of investors and is provided solely as general information about products and services or to otherwise provide general investment education. None of the information provided should be regarded as a suggestion to engage in or refrain from any investment-related course of action as neither National Securities nor its affiliates are undertaking to provide you with investment advice or recommendations of any kind. Check the background of your financial professional on FINRA’s BrokerCheck. We take protecting your data and privacy very seriously. As of January 1, 2020 the California Consumer Privacy Act (CCPA) suggests the following link as an extra measure to safeguard your data: Do not sell my personal information. Securities and Variable Insurance Products offered through National Securities Corporation,member FINRA / SIPC. Advisory services provided through National Asset Management, Inc. (NAM), a SEC Registered Investment Advisor; a copy of NAM’s Brochure is available at NAM’s website. Accounts are carried by National Financial Services LLC, Member NYSE/SIPC, a Fidelity Investments® Company. Insurance products offered through National Insurance Corporation (NIC). Clapboard Hill Private Wealth is not an affiliate of NSC,NAM, NIC or NFS. Accounts are carried by National Financial Services LLC, Member NYSE/SIPC, a Fidelity Investments® Company. */
+
+  position: absolute;
+  width: 1037px;
+  height: 618px;
+  left: 663px;
+  top: 2784px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 32px;
+  /* or 160% */
+
+  color: #ffffff;
+}
